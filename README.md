@@ -1,5 +1,5 @@
 ### Hi There 👋
-<h4 align="left">I'm Ümit Erdoğan. I am a jr software developer who has been interested in software for over 1 years. Below you can find some small information about me</h4>
+<h4 align="left">I'm Ümit Erdoğan. I am a Jr.Software Developer who has been interested in software for over 1 years. Below you can find some small information about me</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
